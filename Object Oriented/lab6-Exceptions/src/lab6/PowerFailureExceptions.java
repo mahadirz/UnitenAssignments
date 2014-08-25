@@ -10,6 +10,20 @@ package lab6;
  *
  * @author training
  */
-public class PowerFailureExceptions {
+class TestPowerFailureExceptions {
+    public static void main(String[] args) {
+        
+    }
+}
+
+public class PowerFailureExceptions extends Exception{
+    public PowerFailureExceptions(){
+        super("default power failure!");
+    }
+    
+    public PowerFailureExceptions(String msg){
+        super(msg);
+    }
+    
     
 }
