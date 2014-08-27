@@ -6,7 +6,9 @@
 
 package mini;
 
-
+/**
+ * @author Mahadir Ahmad
+ */
 public class Animal {
     private String name;
     private int age;

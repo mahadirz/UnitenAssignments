@@ -8,6 +8,11 @@ package mini;
 import java.util.Scanner;
 import java.util.ArrayList;
 
+/**
+ *
+ * @author Mahadir Ahmad
+ */
+
 public class TestAnimals {
 
     // init empty ArrayList
